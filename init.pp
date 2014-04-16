@@ -1,3 +1,3 @@
-package { 'tomcat6':
+package { 'nginx':
     ensure => installed,
   }
